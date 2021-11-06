@@ -1,8 +1,6 @@
+<img src="./assets/header.png">
 
-<img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/blob/master/assets/header.png" width="1600px">
-
-
-# Hi, Folks! <img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/master/assets/wave.gif" width="30px">
+# Hi, Folks! <img src="./assets/wave.gif" width="30px">
 
 #### It's Ahmed Malick here a front-end developer from Pakistan.
 
@@ -25,19 +23,19 @@
 
 <p align="center">
   <a href="mailto:ahmedmalik2k20@gmail.com">
-  <img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/blob/master/assets/gmail.svg" />
+  <img src="./assets/gmail.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100011489112594">
-  <img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/blob/master/assets/facebook.svg" />
+  <img src="./assets/facebook.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ahmedmalik1612/">
-  <img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/blob/master/assets/instagram.svg" />
+  <img src="./assets/instagram.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmedmalick/">
-  <img src="https://raw.githubusercontent.com/ahmedmalick/ahmedmalick/blob/master/assets/linkedin.svg" />
+  <img src="./assets/linkedin.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
