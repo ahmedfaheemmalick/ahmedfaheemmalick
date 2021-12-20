@@ -4,9 +4,8 @@
 
 #### It's Ahmed Malick here a front-end developer from Pakistan.
 
-
-
 ## TECH STACK
+
 - HTML 5
 - CSS 3
 - JavaScript
@@ -38,5 +37,7 @@
   <img src="./assets/linkedin.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ahmedmalik1612">
+  <img src="./assets/twitter.svg" />
   </a>
 </p>
