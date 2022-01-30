@@ -2,20 +2,24 @@
 
 # Hi, Folks! <img src="./assets/wave.gif" width="30px">
 
-#### It's Ahmed Malick here a front-end developer from Pakistan.
+#### It's Ahmed Malick here a full staak(MERN) developer from Pakistan.
 
 ## TECH STACK
 
-- HTML 5
-- CSS 3
+- HTML5
+- CSS3
 - JavaScript
-- TypeScript
-- React Js
-- Redux Js
+- Typescript
+- React
+- Storybook
+- Formik
+- Rest API
 - Graphql
-- Gatsby Js
-- Netlify
-- Faunadb
+- Redux
+- Git
+- Github
+- Node Js
+- Express Js
 
 <br />
 <br />
