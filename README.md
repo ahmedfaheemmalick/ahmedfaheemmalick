@@ -1,4 +1,4 @@
-<img src="./assets/header.png">
+<img height="400" src="./assets/header.png">
 
 # Hi, Folks! <img src="./assets/wave.gif" width="30px">
 
