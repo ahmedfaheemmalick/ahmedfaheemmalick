@@ -1,6 +1,6 @@
 <img src="./assets/header.png">
 
-# Hi, Folks! <img src="./assets/wave.gif" width="30px">
+# Hi, Folks! <img height="560" src="./assets/wave.gif" width="30px">
 
 #### It's Ahmed Malick here a Front-end developer from Pakistan.
 
