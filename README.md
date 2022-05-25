@@ -1,4 +1,4 @@
-<img height="400" width="100%" src="./assets/poster.png">
+<img height="450" width="100%" src="./assets/poster.png">
 
 # Hi, Folks! <img src="./assets/wave.gif" width="30px">
 
