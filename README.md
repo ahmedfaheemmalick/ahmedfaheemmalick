@@ -12,23 +12,23 @@ When I'm not developing or coding, you can find me watching Netflix 🍿 or list
 <br />
 
 <p align="center">
-  <a href="mailto:ahmedfaheemmalick@gmail.com">
+  <a href="mailto:ahmedfaheemmalick@gmail.com" target="_blank">
   <img src="./assets/gmail.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ahmedfaheemmalick">
+  <a href="https://www.facebook.com/ahmedfaheemmalick" target="_blank">
   <img src="./assets/facebook.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ahmedfaheemmalick">
+  <a href="https://www.instagram.com/ahmedfaheemmalick" target="_blank">
   <img src="./assets/instagram.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmedfaheemmalick">
+  <a href="https://www.linkedin.com/in/ahmedfaheemmalick" target="_blank">
   <img src="./assets/linkedin.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ahmedfaheemmali">
+  <a href="https://twitter.com/ahmedfaheemmali" target="_blank">
   <img src="./assets/twitter.svg" />
   </a>
 </p>
