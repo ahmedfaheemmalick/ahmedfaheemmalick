@@ -7,16 +7,15 @@ It's Ahmed Faheem here. I code 🧑‍💻 to survive. I'm always curious 🧐 t
 When I'm not developing or coding, you can find me watching Netflix 🍿 or listening to music 🎵. Memes 🤣 are something I'm obsessed with.
 
 <br />
-<br />
 
-<h2>Here are some of my recet article on medium</h2>
+<h2 styles="margin-top: -20px">Here are some of my recet article on medium</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0" alt="Recent Article 0">
+  
+  <br />
 
 <div align="center">
 <h2>Support me on:</h2>
-
 <a href="https://www.buymeacoffee.com/ahmedfaheemmali" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 </div>
 
 <div align="center">
