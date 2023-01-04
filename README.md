@@ -9,6 +9,9 @@ When I'm not developing or coding, you can find me watching Netflix 🍿 or list
 <br />
 <br />
 
+<h2>Here are some of my recet article on medium</h2>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0" alt="Recent Article 0"> 
+
 <div align="center">
 <h2>Support me on:</h2>
 
