@@ -9,8 +9,9 @@ When I'm not developing or coding, you can find me watching Netflix 🍿 or list
 <br />
 
 <h2 styles="margin-top: -20px">Here are some of my recet article on medium</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0" alt="Recent Article 0">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/1" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/0" alt="Javascript array methods (Part-1)">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/1" alt="A brief guide to React Suspense">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmedfaheemmalick/2" alt="10 most frequently used Git commands.">
   
   <br />
 
