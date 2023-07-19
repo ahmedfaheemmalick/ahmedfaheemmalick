@@ -21,17 +21,9 @@ When I'm not developing or coding, you can find me watching Netflix 🍿 or list
 </div>
 
 <div align="center">
-<h2>Follow me on:</h2>
+<h2>React out to me on:</h2>
   <a href="mailto:ahmedfaheemmalick@gmail.com" target="_blank">
   <img src="./assets/gmail.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ahmedfaheemmalick" target="_blank">
-  <img src="./assets/facebook.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ahmedfaheemmalick" target="_blank">
-  <img src="./assets/instagram.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmedfaheemmalick" target="_blank">
@@ -40,9 +32,5 @@ When I'm not developing or coding, you can find me watching Netflix 🍿 or list
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ahmedfaheemmali" target="_blank">
   <img src="./assets/twitter.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@ahmedfaheemmalick" target="_blank">
-  <img src="./assets/medium.svg" />
   </a>
 </div>
